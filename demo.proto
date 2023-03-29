@@ -1,0 +1,6 @@
+syntax = "proto2";
+
+message Demo {
+    required int32 a = 1;
+    required uint32 b = 2;
+}
